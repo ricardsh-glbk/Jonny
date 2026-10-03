@@ -1,0 +1,14 @@
+telegram:
+  bot:
+    token: 8323602087:AAEjeKoiGXZhViNInCE8Fte3GW-dptN4LDw
+
+proxy:
+  host: 185.237.95.129
+  port: 2026
+
+spring:
+  application:
+    name: jonny
+
+server:
+  port: 8080
